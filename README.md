@@ -1,4 +1,4 @@
-## Hi there, I'm Azeddine Hamdaoui. I am currently a Software Engineer. I enjoy every aspect of programming except UI implementation.
+## Hi there, I'm Azeddine Hamdaoui. I am currently a Software Engineer. I enjoy every aspect of programming except UI implementation which is brainless.
 
 <br />
 <div align=center>
