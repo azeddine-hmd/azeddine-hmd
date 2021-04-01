@@ -6,13 +6,13 @@
 </div>
 <br />
 
-State:
+### State:
 - 🔭 I’m currently working on minishell written in C language
 - 👯 I’m looking to collaborate on any android project with kotlin
 - 📫 Email me: azeddine.hmd@gmail.com
 - ⚡ btw, I use arch
 
-Favorites:
+### Favorites:
   - operating system: Arch Linux
   - window manager: suckless dwm
   - terminal: alacritty
@@ -20,4 +20,7 @@ Favorites:
   - Text Editor: Neovim
  
 [![Azeddine's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=azeddine-hmd&show_icons=true&theme=gruvbox&border_radius=20)](https://github.com/azeddine-hmd)
+
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeddine-hmd&theme=darcula&layout=compact)](https://github.com/azeddine-hmd)
