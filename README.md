@@ -6,11 +6,10 @@
 </div>
 <br />
 
-States:
-- 🔭 I’m currently working on minishell
+State:
+- 🔭 I’m currently working on minishell written in C language
 - 👯 I’m looking to collaborate on any android project with kotlin
-- 💬 Ask me about anything
-- 📫 How to reach me: azeddine.hmd@gmail.com
+- 📫 Email me: azeddine.hmd@gmail.com
 - ⚡ btw, I use arch
 
 Favorites:
