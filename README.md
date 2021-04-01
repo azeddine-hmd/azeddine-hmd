@@ -30,5 +30,11 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: azeddine.hmd@gmail.com
-- 😄 Pronouns: I really don't care
-- ⚡ Fun fact: btw, I use arch
+- ⚡ btw, I use arch
+
+Favorites:
+  - operating system: Arch Linux
+  - window manager: suckless dwm
+  - terminal: alacritty
+  - I temux for terminal window managment
+  - neovim for text editing
