@@ -7,7 +7,7 @@
 <br />
 
 ### States:
-- 🔭 I’m currently working on minishell written in C language
+- 🔭 I’m currently working on minishell written in c for school, and AutoReservation an android app as an aside project
 - 👯 I’m looking to collaborate on any android project with kotlin
 - 📫 Email me: azeddine.hmd@gmail.com
 - ⚡ btw, I use arch
