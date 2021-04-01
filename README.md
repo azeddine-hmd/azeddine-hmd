@@ -6,7 +6,7 @@
 </div>
 <br />
 
-### State:
+### States:
 - 🔭 I’m currently working on minishell written in C language
 - 👯 I’m looking to collaborate on any android project with kotlin
 - 📫 Email me: azeddine.hmd@gmail.com
