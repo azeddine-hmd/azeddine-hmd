@@ -19,5 +19,5 @@ Favorites:
   - I temux for terminal window managment
   - Text Editor: Neovim
  
-[![Azeddine's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=azeddine-hmd&show_icons=true&theme=gruvbox&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeddine-hmd&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Azeddine's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=azeddine-hmd&show_icons=true&theme=gruvbox&border_radius=20)](https://github.com/azeddine-hmd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeddine-hmd&theme=darcula&layout=compact)](https://github.com/azeddine-hmd)
