@@ -14,11 +14,12 @@
 
 ### Favorites:
   - operating system: Arch Linux
-  - window manager: suckless dwm
-  - terminal: alacritty
-  - I temux for terminal window managment
+  - window manager: Suckless DWM
+  - terminal: Alacritty
+  - terminal window managment: Tmux
   - Text Editor: Neovim
  
+ ### Cards:
 [![Azeddine's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=azeddine-hmd&show_icons=true&theme=gruvbox&border_radius=20)](https://github.com/azeddine-hmd)
 
 <br />
