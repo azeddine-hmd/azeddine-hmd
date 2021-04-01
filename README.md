@@ -2,7 +2,7 @@
 
 <br />
 <div align=center>
-  <img src="asui.gif">
+  <img src="brain.png">
 </div>
 <br />
 
