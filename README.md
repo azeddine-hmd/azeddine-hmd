@@ -16,7 +16,7 @@
   - operating system: Arch Linux
   - window manager: Suckless DWM
   - terminal: Alacritty
-  - terminal window managment: Tmux
+  - terminal multiplexer: Tmux
   - Text Editor: Neovim
  
  ### Cards:
