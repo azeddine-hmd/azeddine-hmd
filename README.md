@@ -1,4 +1,4 @@
-## Hi There, I'm Azeddine. I am a Software Engineer.
+## Welcome to my humble home page. I hope you find what you looking for.
 
 <br />
 <div align=center>
