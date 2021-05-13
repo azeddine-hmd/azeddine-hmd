@@ -1,4 +1,4 @@
-## Hi There, I'm Azeddine. I am a Software Engineer. I enjoy every aspect of programming except UI implementation which is brainless.
+## Hi There, I'm Azeddine. I am a Software Engineer.
 
 <br />
 <div align=center>
