@@ -6,8 +6,11 @@
 </div>
 <br />
 
-### Favourites:
+### Contact:
 - email: azeddine.hmd@gmail.com
+- website: azeddine.xyz
+
+### Favourites:
 - operating system: Arch Linux
 - window manager: Suckless DWM
 - terminal: Alacritty
