@@ -6,7 +6,7 @@
 </div>
 <br />
 
-### Info:
+### Favourites:
 - email: azeddine.hmd@gmail.com
 - operating system: Arch Linux
 - window manager: Suckless DWM
