@@ -1,5 +1,3 @@
-## Welcome to my humble home page.
-
 <br />
 <div align=center>
   <img src="brain.png">
