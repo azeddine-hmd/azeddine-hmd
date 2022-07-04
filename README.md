@@ -4,7 +4,7 @@
 </div>
 <br />
 
-### Contact:
+### Info:
 - email: azeddine.hmd@gmail.com
 - website: azeddine.xyz
 
